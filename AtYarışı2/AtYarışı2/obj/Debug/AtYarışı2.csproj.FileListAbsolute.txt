@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\AtYarışı2\AtYarışı2\bin\Debug\AtYarışı2.exe.config
+C:\Users\user\Desktop\10-M\AtYarışı2\AtYarışı2\bin\Debug\AtYarışı2.exe
+C:\Users\user\Desktop\10-M\AtYarışı2\AtYarışı2\bin\Debug\AtYarışı2.pdb
+C:\Users\user\Desktop\10-M\AtYarışı2\AtYarışı2\obj\Debug\AtYarışı2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\AtYarışı2\AtYarışı2\obj\Debug\AtYarışı2.Form1.resources
+C:\Users\user\Desktop\10-M\AtYarışı2\AtYarışı2\obj\Debug\AtYarışı2.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\AtYarışı2\AtYarışı2\obj\Debug\AtYarışı2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\AtYarışı2\AtYarışı2\obj\Debug\AtYarışı2.exe
+C:\Users\user\Desktop\10-M\AtYarışı2\AtYarışı2\obj\Debug\AtYarışı2.pdb
